@@ -1,0 +1,32 @@
+{
+	"storyName": "under my pants",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snas",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"snas",
+			"sasn",
+			[
+				60,
+				160,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sans week"
+}
